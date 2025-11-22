@@ -13,4 +13,4 @@
 ||travellermania.com^
 ||travel-auto.com^
 ||g24w.com^
-||^
+! ||^
